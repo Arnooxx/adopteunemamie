@@ -1,0 +1,5 @@
+.fstElement { height:42px;}
+.fstToggleBtn { min-width: 16.5em; }
+.submitBtn { display: none; }
+.fstMultipleMode { display: block; }
+.fstMultipleMode .fstControls { width: 100%;}
